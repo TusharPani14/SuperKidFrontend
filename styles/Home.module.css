@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Irish+Grover&family=Open+Sans:wght@500&family=Ubuntu&display=swap');
+
+.container{
+  height: 100%;
+  width: max-width;
+  background-color: #FEE7C3;
+  padding-top: 4vw;
+  padding-left: 4vw;
+  padding-bottom: 2vw;
+}
+
+.kid{
+  font-family: 'Irish Grover', cursive;
+  color: #F85415;  
+  font-size: 31px;
+}
+
+.super{
+  margin: 5px;
+  padding: 5px;
+  background-color: #F85415;
+  border-radius: 30px;
+  color: white;
+  font-family: 'Irish Grover', cursive;
+  font-size: 31px;
+}
+
+
+.content{
+  padding: 3vw;
+}
+
+.heading{
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: black;
+}
+
+.highlight{
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #F85415;
+}
+
+.points{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #17324B;
+}
+
+.form{
+  background-color: white;
+  padding: 2vw 2vw;
+  border-radius: 10px;
+}
+
+.register{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color: #17324B;
+}
+
+.price{
+  padding: 2px 0;
+  color: black;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
